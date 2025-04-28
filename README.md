@@ -1,4 +1,4 @@
-# ROS2 YOLOv8 Object Detection — Publisher and Subscriber
+# Real-Time Object Detection with YOLOv8 and Integration with ROS2
 
 ## Description
 

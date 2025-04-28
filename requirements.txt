@@ -1,0 +1,5 @@
+cvzone==1.6.1
+opencv_python==4.10.0.84
+rclpy==3.3.14
+std_msgs==4.2.4
+ultralytics==8.3.61
